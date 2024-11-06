@@ -1,4 +1,4 @@
-# GAEF: 
+# GAEF
 GAEF: Gated Recurrent Unit-Attentive EEG Fusion Model for Alzheimer's Disease Detection
 
 The GAEF model is designed to enhance the accuracy of Alzheimer's Disease (AD) detection by effectively capturing both spectral and temporal dependencies in EEG data. The model incorporates advanced features and an attention mechanism to improve classification boundaries between AD, frontotemporal dementia (FTD), and cognitive normal (CN) cases.
