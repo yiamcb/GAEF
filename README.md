@@ -11,7 +11,7 @@ The GAEF model is designed to enhance the accuracy of Alzheimer's Disease (AD) d
 
 **RadarCharts.py:** This script generates radar charts that visualize key features such as Higuchi fractal dimension, Lyapunov exponents, and spectral entropy across AD, CN, and FTD classes. These visualizations highlight significant differences in fractal complexity, neural dynamics, and spectral characteristics, providing insights into the discriminative power of each feature used by the GAEF model for classification.
 
-# If you use this code, please cite our article:
+# If you find this work useful, please cite our article:
 
 # Publicly available datasets used in the article:
 
